@@ -11,7 +11,7 @@ state = {
 }
 
 # --- Simple API key for authentication ---
-API_KEY = "mysecretkey123"  # change this later to something less obvious
+API_KEY = "lovro_smarthome_2026"  # change this later to something less obvious
 
 
 def light_should_be_on(motion, dark):
